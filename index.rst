@@ -72,11 +72,15 @@ You may also find useful the presentations on the Summer 2012 data release that 
 .. _Data Challenge Handbook: https://docushare.lsstcorp.org/docushare/dsweb/Get/Document-15286
 .. _All Hands Meeting: https://www.lsstcorp.org/ahm2012/node/40
 
-**Note #1: Some of these websites require the standard DM user name and password; if you don't know it already, it can be found in Section 2.2.1 of the** `prior Data Challenge Handbook`_.
+.. note::
+
+   Some of these websites require the standard DM user name and password; if you don't know it already, it can be found in Section 2.2.1 of the `prior Data Challenge Handbook`_.
 
 .. _prior Data Challenge Handbook: https://docushare.lsstcorp.org/docushare/dsweb/Get/Document-10762
 
-**Note #2: The catalog and image access tools in use here are temporary solutions for data distribution graciously provided to us by IPAC: in particular, they are** *NOT* **representative of the Science User Interface the LSST will ultimately have.**
+.. note::
+
+   The catalog and image access tools in use here are temporary solutions for data distribution graciously provided to us by IPAC: in particular, they are *NOT* representative of the Science User Interface the LSST will ultimately have.
 
 * Summer 2012 `Data Challenge Handbook`_.
 * `Catalogs access (Gator) <https://osiris.ipac.caltech.edu/>`_
